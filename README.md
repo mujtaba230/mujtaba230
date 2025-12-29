@@ -14,7 +14,7 @@
   <a href="mailto:mujtabasyed486@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/syed-mujtaba-">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -23,7 +23,7 @@
 
 ## 🧠 About Me
 
-🚀 **Senior Full Stack Python Engineer** with **3+ years of experience** building **scalable, secure, production-grade systems**.
+🚀 ** Full Stack Engineer** spending time in building **scalable, secure, production-grade systems**.
 
 I work across **backend, frontend, AI/ML, data engineering, and cloud infrastructure**, delivering systems that are reliable, performant, and ready for real-world usage.
 
@@ -55,69 +55,6 @@ I work across **backend, frontend, AI/ML, data engineering, and cloud infrastruc
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 **Full Stack Engineer II**
-**Dexterz Technologies** *(Nov 2023 – Present)* — Remote
-
-- Leading development of **full-stack web applications** using FastAPI, Flask, React, and Node.js  
-- Architecting **microservice-based REST APIs**  
-- Integrating **LLM-powered workflows & NLP features**  
-- Designing optimized **PostgreSQL, MongoDB & Redis schemas**  
-- Building **data ingestion & processing pipelines**  
-- Deploying applications on **AWS using Docker & CI/CD**  
-- Implementing **JWT, OAuth & API security best practices**  
-- Logging & monitoring with **CloudWatch & ELK Stack**
-
----
-
-### 🏢 **Backend Engineer**
-**NimerTech** *(Sep 2022 – Nov 2023)* — Remote
-
-- Developed backend services using **FastAPI & Flask**  
-- Built automation scripts & background jobs  
-- Designed relational databases (**PostgreSQL, MySQL**)  
-- Assisted in **AI/NLP preprocessing & integrations**  
-- Integrated third-party APIs and improved performance  
-
----
-
-### 🏢 **Software Engineer Intern**
-**PureLogics** *(Jul 2022 – Sep 2022)* — Onsite
-
-- Backend development using **Python & ASP.NET Core**  
-- REST API development & unit testing  
-- Debugging & performance optimization  
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Enterprise Knowledge Assistant (LLM + RAG)
-- Domain-specific AI knowledge system  
-- PDF ingestion & preprocessing pipelines  
-- Embeddings & vector indexing  
-- ChromaDB / FAISS  
-- FastAPI inference services  
-- Prompt optimization to reduce hallucinations  
-
----
-
-### 📄 Automated Document Intelligence System (CV + NLP)
-- OCR pipelines  
-- Image preprocessing & layout detection  
-- Entity extraction (totals, dates, vendors)  
-- High-precision structured outputs  
-
----
-
-### 📊 Real-Time Data Processing & Analytics Pipeline
-- High-volume transactional data ingestion  
-- Python-based ETL workflows  
-- Optimized PostgreSQL storage  
-- Analytics-ready APIs  
-
----
 
 ## 📈 GitHub Activity
 
@@ -130,24 +67,16 @@ I work across **backend, frontend, AI/ML, data engineering, and cloud infrastruc
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujtaba230&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-## 🎓 Education
-
-🎓 **Bachelor of Computer Science**  
-**National University of Computer and Emerging Sciences**
-
----
 
 ## 🤝 Let’s Connect
 
 💼 Open to:
 - Backend & Full Stack Roles  
 - AI / LLM / Data Engineering Projects  
-- Freelance & Contract Opportunities  
+- Freelance / Contract / Full Time Opportunities  
 
 📫 **Email:** mujtabasyed486@gmail.com  
-🔗 **LinkedIn:** Add your LinkedIn URL  
+🔗 **LinkedIn:** https://www.linkedin.com/syed-mujtaba- 
 
 ---
 
