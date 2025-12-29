@@ -1,262 +1,140 @@
-<!-- ===================== -->
-<!-- Animated Hero Header -->
-<!-- ===================== -->
+<!-- =============================== -->
+<!-- CYBER / NEON ANIMATED HEADER -->
+<!-- =============================== -->
 
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#4CAF50;">Syed Mujtaba</span>
+  <span style="color:#00FFD1;">SYED MUJTABA</span>
 </h1>
 
+<h3 align="center" style="color:#9D00FF;">
+  Senior Full Stack Python Engineer • AI & Data Systems
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4CAF50&center=true&vCenter=true&width=850&lines=Senior+Full+Stack+Python+Engineer;AI+%26+Data+Systems+Specialist;FastAPI+%7C+Flask+%7C+Django;React+%7C+Next.js+%7C+Node.js;LLMs+%7C+RAG+%7C+NLP+%7C+Data+Engineering;AWS+%7C+Docker+%7C+CI%2FCD" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=950&lines=Full+Stack+Python+Engineer;AI+%7C+LLMs+%7C+RAG+%7C+NLP;FastAPI+%7C+Flask+%7C+Django;React+%7C+Next.js+%7C+Node.js;Data+Engineering+%7C+ETL+Pipelines;AWS+%7C+Docker+%7C+CI%2FCD" />
 </p>
 
 <p align="center">
   <a href="mailto:mujtabasyed486@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-00FFD1?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 ABOUT ME
 
-🚀 ** Full Stack Engineer** busy in designing, developing, and deploying **secure, scalable, production-grade systems**.
+```diff
++ Senior Full Stack Python Engineer with 3+ years of experience
++ Specializing in scalable systems, AI-powered backends & data platforms
++ Strong focus on performance, security & clean architecture
+🚀 I design and build production-grade software across:
 
-I work across the **entire software lifecycle**, from **backend & frontend engineering** to **AI/ML integrations, data pipelines, and cloud deployments**.
+Backend & Full Stack Engineering
 
-💡 Strong focus on:
-- Clean architecture & microservices
-- High-performance APIs
-- AI-powered systems (LLMs, RAG, NLP)
-- Data-intensive & cloud-native applications
+AI / LLM-powered systems
 
----
+Data Engineering & ETL pipelines
 
-## 🛠️ Skills & Technologies
+Cloud-native & DevOps workflows
 
-### 🧩 Languages & Core Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,sql,html,css" />
-</p>
+I enjoy turning complex problems into clean, reliable, scalable systems.
 
-- **Python**, JavaScript, TypeScript, SQL  
-- REST APIs, GraphQL  
+🛠️ SKILLS • LANGUAGES • TECHNOLOGIES
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,sql,html,css,fastapi,flask,django,nodejs,express,react,nextjs,redux,tailwind,bootstrap,postgres,mysql,mongodb,sqlite,redis,dynamodb,elasticsearch,supabase,aws,azure,gcp,docker,kubernetes,linux,nginx,githubactions,jenkins,gitlab,git,jira&perline=12" /> </p>
+text
+Copy code
+REST APIs • GraphQL • Microservices
+ETL Pipelines • Data Ingestion • Data Transformation
+Schema Design • Indexing • Caching
+LLMs • RAG • NLP • BERT • LSTM
+Embeddings • ChromaDB • FAISS • Pinecone (basic)
+Prompt Engineering • FastAPI Inference Services
+OAuth2 • JWT • SSL/TLS • OWASP Top 10
+ELK Stack • Prometheus • Grafana • Datadog
+Agile / Scrum • Jira • Confluence
+💼 EXPERIENCE
+🟣 Full Stack Engineer II — Dexterz Technologies
+Nov 2023 – Present | Remote
 
----
+Architecting FastAPI & Flask microservices
 
-### ⚙️ Backend Frameworks & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express" />
-</p>
+Building React + Node.js full-stack systems
 
-- FastAPI, Flask, Django  
-- Node.js, Express.js  
-- RESTful API development  
-- API versioning & documentation  
+Integrating LLM-powered workflows & NLP features
 
----
+Designing PostgreSQL, MongoDB & Redis schemas
 
-### 🎨 Frontend & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
-</p>
+Building data ingestion & processing pipelines
 
-- React.js, Next.js  
-- Redux  
-- Tailwind CSS, Bootstrap  
-- Responsive UI development  
+Deploying on AWS using Docker & CI/CD
 
----
+Implementing JWT, OAuth & API security
 
-### 🗄️ Databases & Data Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,aws" />
-</p>
+Monitoring with CloudWatch & ELK Stack
 
-- PostgreSQL, MySQL, MongoDB, SQLite, SQL Server  
-- Redis (caching & performance)  
-- DynamoDB  
-- Elasticsearch  
-- Supabase  
-- AWS RDS, Amazon S3  
+🔵 Backend Engineer — NimerTech
+Sep 2022 – Nov 2023 | Remote
 
-**Data Engineering**
-- ETL pipelines  
-- Data ingestion & transformation  
-- Schema design & indexing  
-- Caching systems  
+Developed backend services with FastAPI & Flask
 
----
+Built automation scripts & background jobs
 
-### 🤖 AI / ML / NLP (Production-Oriented)
-🧠 *Hands-on experience building AI systems used in real environments*
+Designed optimized relational databases
 
-- Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG)  
-- NLP pipelines  
-- BERT, LSTM  
-- Embeddings & vector search  
-- ChromaDB, FAISS, Pinecone (basic)  
-- Prompt engineering  
-- FastAPI-based inference services  
+Assisted in AI/NLP preprocessing & integrations
 
----
+Integrated third-party APIs & improved performance
 
-### ☁️ Cloud, DevOps & CI/CD
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,nginx" />
-</p>
+⚪ Software Engineer Intern — PureLogics
+Jul 2022 – Sep 2022 | Onsite
 
-- **AWS**: EC2, S3, RDS, EKS, IAM, CloudWatch  
-- **Azure**: App Services, Functions  
-- **GCP**: Compute Engine, Cloud Run  
-- Docker & Kubernetes (EKS – basic)  
-- Nginx  
-- Linux  
+Backend development using Python & ASP.NET Core
 
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab" />
-</p>
+REST API development & unit testing
 
-- GitHub Actions  
-- Jenkins  
-- GitLab CI/CD  
+Debugging & performance optimization
 
----
+🚀 FEATURED PROJECTS
+🤖 Enterprise Knowledge Assistant (LLM + RAG)
+diff
+Copy code
++ AI-powered domain knowledge system
++ PDF ingestion & preprocessing pipelines
++ Embeddings & vector indexing
++ ChromaDB / FAISS
++ FastAPI inference services
++ Prompt optimization to reduce hallucinations
+📄 Automated Document Intelligence System (CV + NLP)
+diff
+Copy code
++ OCR pipelines
++ Image preprocessing & layout detection
++ Entity extraction (totals, dates, vendors)
++ High-precision structured outputs
+📊 Real-Time Data Processing & Analytics Pipeline
+diff
+Copy code
++ High-volume transactional data ingestion
++ Python-based ETL workflows
++ Optimized PostgreSQL storage
++ Analytics-ready APIs
+📈 GITHUB ACTIVITY
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mujtaba230&show_icons=true&theme=radical&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?username=mujtaba230&theme=radical&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujtaba230&theme=react-dark&hide_border=true"/> </p>
+🎓 EDUCATION
+🎓 Bachelor of Computer Science
+National University of Computer and Emerging Sciences
 
-### 🔐 Testing, Security & Performance
-- PyTest, Selenium  
-- Postman, Jest  
-- Unit, integration & API testing  
-- OAuth2, JWT  
-- SSL/TLS  
-- OWASP Top 10  
-- CSRF / XSS prevention  
-- Authentication & authorization  
+🤝 LET’S CONNECT
+diff
+Copy code
++ Open to Backend / Full Stack Roles
++ AI / LLM / Data Engineering Projects
++ Freelance & Contract Work
+📫 Email: mujtabasyed486@gmail.com
+🔗 LinkedIn: Add your LinkedIn URL
 
----
-
-### 📊 Monitoring & Observability
-- ELK Stack (Elasticsearch, Logstash, Kibana)  
-- Prometheus  
-- Grafana  
-- Datadog  
-- AWS CloudWatch  
-- Application logging & metrics  
-
----
-
-### 🤝 Version Control & Collaboration
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jira" />
-</p>
-
-- Git, GitHub, GitLab  
-- Agile / Scrum  
-- Jira, Confluence  
-
----
-
-## 💼 Professional Experience
-
-### 🏢 **Full Stack Engineer II**
-**Dexterz Technologies** *(Nov 2023 – Present)* — Remote
-
-- Leading development of **full-stack applications** using FastAPI, Flask, React & Node.js  
-- Architecting **microservice-based REST APIs**  
-- Integrating **LLM-powered workflows & NLP features**  
-- Designing optimized **PostgreSQL, MongoDB & Redis schemas**  
-- Building **data ingestion & processing pipelines**  
-- Deploying on **AWS with Docker & CI/CD**  
-- Implementing **JWT, OAuth & API security best practices**  
-- Logging, monitoring & observability with **CloudWatch & ELK**  
-
----
-
-### 🏢 **Backend Engineer**
-**NimerTech** *(Sep 2022 – Nov 2023)* — Remote
-
-- Developed backend services using **FastAPI & Flask**  
-- Built automation scripts & background jobs  
-- Designed relational databases (PostgreSQL, MySQL)  
-- Assisted in **AI/NLP preprocessing & integrations**  
-- Integrated third-party APIs & improved performance  
-
----
-
-### 🏢 **Software Engineer Intern**
-**PureLogics** *(Jul 2022 – Sep 2022)* — Onsite
-
-- Backend development using **Python & ASP.NET Core**  
-- REST API development  
-- Unit testing & debugging  
-- Performance optimization  
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Enterprise Knowledge Assistant (LLM + RAG)
-- LLM-powered domain-specific knowledge system  
-- PDF ingestion & preprocessing pipelines  
-- Embeddings & vector indexing  
-- ChromaDB / FAISS  
-- FastAPI inference services  
-- Prompt optimization to reduce hallucinations  
-
----
-
-### 📄 Automated Document Intelligence System (CV + NLP)
-- OCR pipelines  
-- Image preprocessing & layout detection  
-- Entity extraction (totals, dates, vendors)  
-- High-precision structured outputs  
-
----
-
-### 📊 Real-Time Data Processing & Analytics Pipeline
-- High-volume transactional data ingestion  
-- Python-based ETL workflows  
-- Optimized PostgreSQL storage  
-- Analytics-ready APIs  
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujtaba230&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=mujtaba230&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujtaba230&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🎓 Education
-
-🎓 **Bachelor of Computer Science**  
-**National University of Computer and Emerging Sciences**
-
----
-
-## 🤝 Let’s Connect
-
-💼 Open to:
-- Backend & Full Stack Roles  
-- AI / LLM / Data Engineering Projects  
-- Freelance & Contract Opportunities  
-
-📫 **Email:** mujtabasyed486@gmail.com  
-🔗 **LinkedIn:** Add your LinkedIn URL  
-
----
-
-<p align="center">
-  <i>Engineering scalable systems. Delivering intelligent solutions.</i>
-</p>
+<p align="center"> <span style="color:#00FFD1;"><i>Engineering scalable systems.</i></span> <span style="color:#9D00FF;"><i>Delivering intelligent solutions.</i></span> </p> ```
