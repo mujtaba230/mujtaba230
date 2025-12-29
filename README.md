@@ -14,7 +14,7 @@
   <a href="mailto:mujtabasyed486@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/syed-mujtaba-">
+  <a href="https://www.linkedin.com/in/syed-mujtaba-">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -76,7 +76,7 @@ I work across **backend, frontend, AI/ML, data engineering, and cloud infrastruc
 - Freelance / Contract / Full Time Opportunities  
 
 📫 **Email:** mujtabasyed486@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/syed-mujtaba- 
+🔗 **LinkedIn:** https://www.linkedin.com/in/syed-mujtaba- 
 
 ---
 
