@@ -1,140 +1,156 @@
-<!-- =============================== -->
-<!-- CYBER / NEON ANIMATED HEADER -->
-<!-- =============================== -->
+<!-- ===================== -->
+<!-- Animated Hero Section -->
+<!-- ===================== -->
 
 <h1 align="center">
-  <span style="color:#00FFD1;">SYED MUJTABA</span>
+  Hi 👋, I'm <span style="color:#4CAF50;">Syed Mujtaba</span>
 </h1>
 
-<h3 align="center" style="color:#9D00FF;">
-  Senior Full Stack Python Engineer • AI & Data Systems
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=950&lines=Full+Stack+Python+Engineer;AI+%7C+LLMs+%7C+RAG+%7C+NLP;FastAPI+%7C+Flask+%7C+Django;React+%7C+Next.js+%7C+Node.js;Data+Engineering+%7C+ETL+Pipelines;AWS+%7C+Docker+%7C+CI%2FCD" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4CAF50&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Python+Engineer;AI+%26+Data+Systems+Specialist;FastAPI+%7C+Flask+%7C+Django;React+%7C+Next.js+%7C+Node.js;LLMs+%7C+RAG+%7C+NLP+%7C+Data+Engineering;AWS+%7C+Docker+%7C+CI%2FCD" />
 </p>
 
 <p align="center">
   <a href="mailto:mujtabasyed486@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00FFD1?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-## 🧠 ABOUT ME
+## 🧠 About Me
 
-```diff
-+ Senior Full Stack Python Engineer with 3+ years of experience
-+ Specializing in scalable systems, AI-powered backends & data platforms
-+ Strong focus on performance, security & clean architecture
-🚀 I design and build production-grade software across:
+🚀 **Senior Full Stack Python Engineer** with **3+ years of experience** building **scalable, secure, production-grade systems**.
 
-Backend & Full Stack Engineering
+I work across **backend, frontend, AI/ML, data engineering, and cloud infrastructure**, delivering systems that are reliable, performant, and ready for real-world usage.
 
-AI / LLM-powered systems
+**Core strengths**
+- Clean architecture & microservices
+- High-performance APIs
+- AI-powered applications (LLMs, RAG, NLP)
+- Data pipelines & analytics
+- Cloud-native deployments
 
-Data Engineering & ETL pipelines
+---
 
-Cloud-native & DevOps workflows
+## 🛠️ Skills, Languages & Technologies
 
-I enjoy turning complex problems into clean, reliable, scalable systems.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,sql,html,css,fastapi,flask,django,nodejs,express,react,nextjs,redux,tailwind,bootstrap,postgres,mysql,mongodb,sqlite,redis,dynamodb,elasticsearch,supabase,aws,azure,gcp,docker,kubernetes,linux,nginx,githubactions,jenkins,gitlab,git,jira&perline=12" />
+</p>
 
-🛠️ SKILLS • LANGUAGES • TECHNOLOGIES
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,sql,html,css,fastapi,flask,django,nodejs,express,react,nextjs,redux,tailwind,bootstrap,postgres,mysql,mongodb,sqlite,redis,dynamodb,elasticsearch,supabase,aws,azure,gcp,docker,kubernetes,linux,nginx,githubactions,jenkins,gitlab,git,jira&perline=12" /> </p>
-text
-Copy code
-REST APIs • GraphQL • Microservices
-ETL Pipelines • Data Ingestion • Data Transformation
-Schema Design • Indexing • Caching
-LLMs • RAG • NLP • BERT • LSTM
-Embeddings • ChromaDB • FAISS • Pinecone (basic)
-Prompt Engineering • FastAPI Inference Services
-OAuth2 • JWT • SSL/TLS • OWASP Top 10
-ELK Stack • Prometheus • Grafana • Datadog
-Agile / Scrum • Jira • Confluence
-💼 EXPERIENCE
-🟣 Full Stack Engineer II — Dexterz Technologies
-Nov 2023 – Present | Remote
+**Additional Expertise**
+- REST APIs, GraphQL  
+- ETL pipelines, data ingestion & transformation  
+- Schema design, indexing & caching  
+- LLMs, RAG, NLP, BERT, LSTM  
+- Embeddings, ChromaDB, FAISS, Pinecone (basic)  
+- Prompt engineering & FastAPI inference services  
+- OAuth2, JWT, SSL/TLS, OWASP Top 10  
+- ELK Stack, Prometheus, Grafana, Datadog  
+- Agile / Scrum, Jira, Confluence  
 
-Architecting FastAPI & Flask microservices
+---
 
-Building React + Node.js full-stack systems
+## 💼 Professional Experience
 
-Integrating LLM-powered workflows & NLP features
+### 🏢 **Full Stack Engineer II**
+**Dexterz Technologies** *(Nov 2023 – Present)* — Remote
 
-Designing PostgreSQL, MongoDB & Redis schemas
+- Leading development of **full-stack web applications** using FastAPI, Flask, React, and Node.js  
+- Architecting **microservice-based REST APIs**  
+- Integrating **LLM-powered workflows & NLP features**  
+- Designing optimized **PostgreSQL, MongoDB & Redis schemas**  
+- Building **data ingestion & processing pipelines**  
+- Deploying applications on **AWS using Docker & CI/CD**  
+- Implementing **JWT, OAuth & API security best practices**  
+- Logging & monitoring with **CloudWatch & ELK Stack**
 
-Building data ingestion & processing pipelines
+---
 
-Deploying on AWS using Docker & CI/CD
+### 🏢 **Backend Engineer**
+**NimerTech** *(Sep 2022 – Nov 2023)* — Remote
 
-Implementing JWT, OAuth & API security
+- Developed backend services using **FastAPI & Flask**  
+- Built automation scripts & background jobs  
+- Designed relational databases (**PostgreSQL, MySQL**)  
+- Assisted in **AI/NLP preprocessing & integrations**  
+- Integrated third-party APIs and improved performance  
 
-Monitoring with CloudWatch & ELK Stack
+---
 
-🔵 Backend Engineer — NimerTech
-Sep 2022 – Nov 2023 | Remote
+### 🏢 **Software Engineer Intern**
+**PureLogics** *(Jul 2022 – Sep 2022)* — Onsite
 
-Developed backend services with FastAPI & Flask
+- Backend development using **Python & ASP.NET Core**  
+- REST API development & unit testing  
+- Debugging & performance optimization  
 
-Built automation scripts & background jobs
+---
 
-Designed optimized relational databases
+## 🚀 Featured Projects
 
-Assisted in AI/NLP preprocessing & integrations
+### 🤖 Enterprise Knowledge Assistant (LLM + RAG)
+- Domain-specific AI knowledge system  
+- PDF ingestion & preprocessing pipelines  
+- Embeddings & vector indexing  
+- ChromaDB / FAISS  
+- FastAPI inference services  
+- Prompt optimization to reduce hallucinations  
 
-Integrated third-party APIs & improved performance
+---
 
-⚪ Software Engineer Intern — PureLogics
-Jul 2022 – Sep 2022 | Onsite
+### 📄 Automated Document Intelligence System (CV + NLP)
+- OCR pipelines  
+- Image preprocessing & layout detection  
+- Entity extraction (totals, dates, vendors)  
+- High-precision structured outputs  
 
-Backend development using Python & ASP.NET Core
+---
 
-REST API development & unit testing
+### 📊 Real-Time Data Processing & Analytics Pipeline
+- High-volume transactional data ingestion  
+- Python-based ETL workflows  
+- Optimized PostgreSQL storage  
+- Analytics-ready APIs  
 
-Debugging & performance optimization
+---
 
-🚀 FEATURED PROJECTS
-🤖 Enterprise Knowledge Assistant (LLM + RAG)
-diff
-Copy code
-+ AI-powered domain knowledge system
-+ PDF ingestion & preprocessing pipelines
-+ Embeddings & vector indexing
-+ ChromaDB / FAISS
-+ FastAPI inference services
-+ Prompt optimization to reduce hallucinations
-📄 Automated Document Intelligence System (CV + NLP)
-diff
-Copy code
-+ OCR pipelines
-+ Image preprocessing & layout detection
-+ Entity extraction (totals, dates, vendors)
-+ High-precision structured outputs
-📊 Real-Time Data Processing & Analytics Pipeline
-diff
-Copy code
-+ High-volume transactional data ingestion
-+ Python-based ETL workflows
-+ Optimized PostgreSQL storage
-+ Analytics-ready APIs
-📈 GITHUB ACTIVITY
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mujtaba230&show_icons=true&theme=radical&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?username=mujtaba230&theme=radical&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujtaba230&theme=react-dark&hide_border=true"/> </p>
-🎓 EDUCATION
-🎓 Bachelor of Computer Science
-National University of Computer and Emerging Sciences
+## 📈 GitHub Activity
 
-🤝 LET’S CONNECT
-diff
-Copy code
-+ Open to Backend / Full Stack Roles
-+ AI / LLM / Data Engineering Projects
-+ Freelance & Contract Work
-📫 Email: mujtabasyed486@gmail.com
-🔗 LinkedIn: Add your LinkedIn URL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mujtaba230&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=mujtaba230&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<p align="center"> <span style="color:#00FFD1;"><i>Engineering scalable systems.</i></span> <span style="color:#9D00FF;"><i>Delivering intelligent solutions.</i></span> </p> ```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujtaba230&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Computer Science**  
+**National University of Computer and Emerging Sciences**
+
+---
+
+## 🤝 Let’s Connect
+
+💼 Open to:
+- Backend & Full Stack Roles  
+- AI / LLM / Data Engineering Projects  
+- Freelance & Contract Opportunities  
+
+📫 **Email:** mujtabasyed486@gmail.com  
+🔗 **LinkedIn:** Add your LinkedIn URL  
+
+---
+
+<p align="center">
+  <i>Engineering scalable systems. Delivering intelligent solutions.</i>
+</p>
