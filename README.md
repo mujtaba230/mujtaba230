@@ -23,7 +23,7 @@
 
 ## 🧠 About Me
 
-🚀 **Senior Full Stack Python Engineer** with **3+ years of experience** designing, developing, and deploying **secure, scalable, production-grade systems**.
+🚀 ** Full Stack Engineer** busy in designing, developing, and deploying **secure, scalable, production-grade systems**.
 
 I work across the **entire software lifecycle**, from **backend & frontend engineering** to **AI/ML integrations, data pipelines, and cloud deployments**.
 
@@ -228,12 +228,12 @@ I work across the **entire software lifecycle**, from **backend & frontend engin
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mujtaba230&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=mujtaba230&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujtaba230&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
