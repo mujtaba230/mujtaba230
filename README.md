@@ -1,13 +1,16 @@
 <!-- ===================== -->
-<!-- 🚀 Animated Hero -->
+<!-- 🚀 HERO SECTION -->
 <!-- ===================== -->
 
-<h1 align="center">
-  👋 Hey, I'm <span style="color:#4CAF50;">Syed Mujtaba</span>
-</h1>
+<h1 align="center">👋 Syed Mujtaba</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+%2B+AI+Engineer;LLMs+%7C+RAG+%7C+Data+Systems;Distributed+Systems+%7C+Cloud+Native;Building+Scalable+%26+Intelligent+Platforms" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4CAF50&center=true&vCenter=true&width=900&lines=Building+AI-powered+systems+that+scale;LLMs+%7C+RAG+%7C+Data+Engineering;Backend+Architecture+%7C+Cloud+Native;From+idea+to+production+systems" />
+</p>
+
+<p align="center">
+  <b>Senior Full Stack + AI Engineer</b><br/>
+  Designing systems that actually survive production 🚀
 </p>
 
 <p align="center">
@@ -21,74 +24,65 @@
 
 ---
 
-## 🧠 Who I Am
+## 🧠 About
 
-I design and build **production-grade systems** at the intersection of:
+I work at the intersection of **AI systems, data engineering, and backend architecture**.
 
-- **AI / LLM Platforms**
-- **Data Engineering & Pipelines**
-- **Scalable Backend Architectures**
+Most of my work revolves around building systems that don’t just work in demos —  
+but hold up under **real-world scale, messy data, and production constraints**.
 
-I focus on systems that are:
-> **reliable, high-performance, and built to scale under real-world load**
-
----
-
-## ⚡ What I Actually Do
-
-- Architect **LLM-powered applications (RAG, Agents, AI APIs)**
-- Build **high-throughput backend systems & microservices**
-- Design **data pipelines (batch + streaming)**
-- Deploy **cloud-native, containerized systems**
-- Optimize **latency, cost, and scalability trade-offs**
+Lately, I’ve been focused on improving:
+- **RAG pipelines (retrieval accuracy & latency)**
+- **AI-powered APIs & inference systems**
+- **Data pipelines (batch + near real-time)**
 
 ---
 
-## 🧩 Core Expertise
+## ⚡ What I Work With
 
-### 🤖 AI / LLM Systems
-- RAG pipelines (chunking, embeddings, retrieval optimization)
-- Vector databases (FAISS, ChromaDB, Pinecone)
-- LLM orchestration (LangChain, custom pipelines)
-- Prompt engineering & evaluation pipelines
-- AI inference APIs (FastAPI-based serving)
+### 🤖 AI Systems
+- RAG pipelines (chunking, embeddings, retrieval optimization)  
+- Vector databases (FAISS, ChromaDB, Pinecone)  
+- LLM orchestration (LangChain, custom pipelines)  
+- Prompt engineering & evaluation pipelines  
+- FastAPI-based inference services  
 
 ### 📊 Data Engineering
-- ETL / ELT pipelines
-- Data modeling (OLTP + OLAP)
-- Streaming systems (Kafka basics)
-- Query optimization & indexing strategies
-- Data warehousing concepts
+- ETL / ELT pipelines  
+- Data modeling (OLTP + OLAP)  
+- Query optimization & indexing strategies  
+- Streaming basics (Kafka)  
+- Data ingestion & transformation systems  
 
-### ⚙️ Backend & System Design
-- Microservices architecture
-- High-performance APIs (FastAPI, Django, Node)
-- Caching strategies (Redis)
-- Authentication & security (JWT, OAuth2)
-- Distributed system patterns
+### ⚙️ Backend Systems
+- FastAPI, Django, Node.js  
+- Microservices & distributed architectures  
+- Caching strategies (Redis)  
+- Authentication (JWT, OAuth2)  
+- Performance optimization  
 
 ### ☁️ Cloud & DevOps
-- AWS / GCP / Azure (multi-cloud familiarity)
-- Docker & Kubernetes
-- CI/CD pipelines (GitHub Actions, Jenkins)
-- Nginx, Linux, system-level debugging
-- Monitoring (Prometheus, Grafana, ELK)
+- AWS, GCP, Azure  
+- Docker & Kubernetes  
+- CI/CD (GitHub Actions, Jenkins)  
+- Nginx, Linux  
+- Monitoring (Prometheus, Grafana, ELK)  
 
 ---
 
-## 🛠️ Tech Stack (Focused)
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,django,nodejs,react,nextjs,postgres,mongodb,redis,elasticsearch,aws,gcp,azure,docker,kubernetes,nginx,linux,githubactions,jenkins&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,django,nodejs,react,postgres,mongodb,redis,elasticsearch,aws,gcp,azure,docker,kubernetes,nginx,linux,githubactions,jenkins&perline=10" />
 </p>
 
 ---
 
-## 📈 GitHub Insights
+## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujtaba230&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=mujtaba230&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mujtaba230&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=mujtaba230&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
@@ -99,21 +93,23 @@ I focus on systems that are:
 
 ## 🚀 Current Focus
 
-- Building **AI-native applications (LLMs + real-world workflows)**
-- Improving **RAG accuracy & retrieval performance**
-- Designing **scalable data + AI pipelines**
-- Exploring **agent-based systems & orchestration**
+- Building **AI-native applications (LLMs + real-world workflows)**  
+- Improving **retrieval systems (RAG optimization)**  
+- Designing **scalable data + inference pipelines**  
+- Exploring **agent-based architectures**  
 
 ---
 
-## 🤝 Open To
+## 🤝 Let’s Build Something
 
-- Senior Backend / Full Stack Roles  
-- AI / LLM / Data Engineering Projects  
-- Freelance / Contract / Product Builds  
+I’m open to:
+- AI / LLM systems  
+- Backend-heavy roles  
+- Data engineering projects  
 
----
+📫 **Email:** mujtabasyed486@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/syed-mujtaba-  
 
 <p align="center">
-  <i>"Build systems that scale. Ship solutions that matter."</i>
+  <i>Less buzzwords. More systems that actually work.</i>
 </p>
