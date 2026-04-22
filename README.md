@@ -1,18 +1,18 @@
 <!-- ===================== -->
-<!-- Animated Hero Section -->
+<!-- 🚀 Animated Hero -->
 <!-- ===================== -->
 
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#4CAF50;">Syed Mujtaba</span>
+  👋 Hey, I'm <span style="color:#4CAF50;">Syed Mujtaba</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4CAF50&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Python+Engineer;AI+%26+Data+Systems+Specialist;FastAPI+%7C+Flask+%7C+Django;React+%7C+Next.js+%7C+Node.js;LLMs+%7C+RAG+%7C+NLP+%7C+Data+Engineering;AWS+%7C+Docker+%7C+CI%2FCD" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4CAF50&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+%2B+AI+Engineer;LLMs+%7C+RAG+%7C+Data+Systems;Distributed+Systems+%7C+Cloud+Native;Building+Scalable+%26+Intelligent+Platforms" />
 </p>
 
 <p align="center">
   <a href="mailto:mujtabasyed486@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-success?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/syed-mujtaba-">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -21,65 +21,99 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Who I Am
 
-🚀 ** Full Stack Engineer** spending time in building **scalable, secure, production-grade systems**.
+I design and build **production-grade systems** at the intersection of:
 
-I work across **backend, frontend, AI/ML, data engineering, and cloud infrastructure**, delivering systems that are reliable, performant, and ready for real-world usage.
+- **AI / LLM Platforms**
+- **Data Engineering & Pipelines**
+- **Scalable Backend Architectures**
 
-**Core strengths**
-- Clean architecture & microservices
-- High-performance APIs
-- AI-powered applications (LLMs, RAG, NLP)
-- Data pipelines & analytics
-- Cloud-native deployments
+I focus on systems that are:
+> **reliable, high-performance, and built to scale under real-world load**
 
 ---
 
-## 🛠️ Skills, Languages & Technologies
+## ⚡ What I Actually Do
+
+- Architect **LLM-powered applications (RAG, Agents, AI APIs)**
+- Build **high-throughput backend systems & microservices**
+- Design **data pipelines (batch + streaming)**
+- Deploy **cloud-native, containerized systems**
+- Optimize **latency, cost, and scalability trade-offs**
+
+---
+
+## 🧩 Core Expertise
+
+### 🤖 AI / LLM Systems
+- RAG pipelines (chunking, embeddings, retrieval optimization)
+- Vector databases (FAISS, ChromaDB, Pinecone)
+- LLM orchestration (LangChain, custom pipelines)
+- Prompt engineering & evaluation pipelines
+- AI inference APIs (FastAPI-based serving)
+
+### 📊 Data Engineering
+- ETL / ELT pipelines
+- Data modeling (OLTP + OLAP)
+- Streaming systems (Kafka basics)
+- Query optimization & indexing strategies
+- Data warehousing concepts
+
+### ⚙️ Backend & System Design
+- Microservices architecture
+- High-performance APIs (FastAPI, Django, Node)
+- Caching strategies (Redis)
+- Authentication & security (JWT, OAuth2)
+- Distributed system patterns
+
+### ☁️ Cloud & DevOps
+- AWS / GCP / Azure (multi-cloud familiarity)
+- Docker & Kubernetes
+- CI/CD pipelines (GitHub Actions, Jenkins)
+- Nginx, Linux, system-level debugging
+- Monitoring (Prometheus, Grafana, ELK)
+
+---
+
+## 🛠️ Tech Stack (Focused)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,sql,html,css,fastapi,flask,django,nodejs,express,react,nextjs,redux,tailwind,bootstrap,postgres,mysql,mongodb,sqlite,redis,dynamodb,elasticsearch,supabase,aws,azure,gcp,docker,kubernetes,linux,nginx,githubactions,jenkins,gitlab,git,jira&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,django,nodejs,react,nextjs,postgres,mongodb,redis,elasticsearch,aws,gcp,azure,docker,kubernetes,nginx,linux,githubactions,jenkins&perline=10" />
 </p>
 
-**Additional Expertise**
-- REST APIs, GraphQL  
-- ETL pipelines, data ingestion & transformation  
-- Schema design, indexing & caching  
-- LLMs, RAG, NLP, BERT, LSTM  
-- Embeddings, ChromaDB, FAISS, Pinecone (basic)  
-- Prompt engineering & FastAPI inference services  
-- OAuth2, JWT, SSL/TLS, OWASP Top 10  
-- ELK Stack, Prometheus, Grafana, Datadog  
-- Agile / Scrum, Jira, Confluence  
-
 ---
 
-
-## 📈 GitHub Activity
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujtaba230&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=mujtaba230&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mujtaba230&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=mujtaba230&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujtaba230&theme=tokyo-night&hide_border=true"/>
 </p>
 
+---
 
-## 🤝 Let’s Connect
+## 🚀 Current Focus
 
-💼 Open to:
-- Backend & Full Stack Roles  
+- Building **AI-native applications (LLMs + real-world workflows)**
+- Improving **RAG accuracy & retrieval performance**
+- Designing **scalable data + AI pipelines**
+- Exploring **agent-based systems & orchestration**
+
+---
+
+## 🤝 Open To
+
+- Senior Backend / Full Stack Roles  
 - AI / LLM / Data Engineering Projects  
-- Freelance / Contract / Full Time Opportunities  
-
-📫 **Email:** mujtabasyed486@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/syed-mujtaba- 
+- Freelance / Contract / Product Builds  
 
 ---
 
 <p align="center">
-  <i>Engineering scalable systems. Delivering intelligent solutions.</i>
+  <i>"Build systems that scale. Ship solutions that matter."</i>
 </p>
